@@ -5,5 +5,5 @@ Mochammad Ghifari Eka Narayana  - 140910190021 <br/>
 Matthew Felix Ristanto          - 140810190047 <br/>
 
 **Screenshot output program**
-![output][output.PNG]
+![output][output.png]
 
